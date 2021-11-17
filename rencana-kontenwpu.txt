@@ -5,7 +5,7 @@ Rencana Konten WPU
   * Framework Js
     ^ Vue
     ^ React
- - Struk Data Dasar
+- Struk Data Dasar
 - PHP Framework
  * Laravel
 - Interview
