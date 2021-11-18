@@ -12,3 +12,4 @@ Rencana Konten WPU
 - Interview
 - Vlogs
 - Python
+- Slicing
